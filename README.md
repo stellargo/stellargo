@@ -10,7 +10,7 @@ I am Sumit. You can read more about my Google Summer of Code (GSoC) project on e
 - [External Fingerprint storage API](https://github.com/jenkinsci/jenkins/pull/4731) in Jenkins core
 - [Fingerprint migration support](https://github.com/jenkinsci/jenkins/pull/4825) in Jenkins core
 - [Fingerprint cleanup support for External Fingerprint Storage API](https://github.com/jenkinsci/jenkins/pull/4817) in Jenkins core
-- [Built 'HTTPSBear' linter to automatically replace HTTP links with working HTTPS versions in coala](https://github.com/coala/coala-bears/pull/2063/files) in coala
+- [Built 'HTTPSBear' linter to automatically replace HTTP links with working HTTPS versions](https://github.com/coala/coala-bears/pull/2063/files) in coala
 - [Developed feature to allow including header files for ‘CPPCleanBear’ using the CppClean linter](https://github.com/coala/coala-bears/pull/2037/files) in coala
 
 ### Some of my deep learning projects related to vision and speech:
@@ -20,18 +20,3 @@ I am Sumit. You can read more about my Google Summer of Code (GSoC) project on e
 ### Some blogs I have authored:
 - [VGGNet vs ResNet (The Vanishing Gradient Problem)](https://towardsdatascience.com/vggnet-vs-resnet-924e9573ca5c)
 - [Exploring Image Data Augmentation with Keras and Tensorflow](https://towardsdatascience.com/exploring-image-data-augmentation-with-keras-and-tensorflow-a8162d89b844)
-
-<!--
-**stellargo/stellargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
