@@ -7,11 +7,11 @@ I am Sumit. You can read more about my Google Summer of Code (GSoC) project on e
 - [PostgreSQL Fingerprint Storage Plugin](https://github.com/jenkinsci/postgresql-fingerprint-storage-plugin) for Jenkins
 
 ##### Some PRs in huge projects I am proud of:
-- [External Fingerprint storage API in Jenkins core](https://github.com/jenkinsci/jenkins/pull/4731)
-- [Fingerprint migration support in Jenkins core]()
+- [External Fingerprint storage API](https://github.com/jenkinsci/jenkins/pull/4731) in Jenkins core
+- [Fingerprint migration support](https://github.com/jenkinsci/jenkins/pull/4825) in Jenkins core
 - [Fingerprint cleanup s]
-- [Built 'HTTPSBear' linter to automatically replace HTTP links with working HTTPS versions in coala](https://github.com/coala/coala-bears/pull/2063/files)
-- [Developed feature to allow including header files for coala’s ‘CPPCleanBear’ using the CppClean linter](https://github.com/coala/coala-bears/pull/2037/files)
+- [Built 'HTTPSBear' linter to automatically replace HTTP links with working HTTPS versions in coala](https://github.com/coala/coala-bears/pull/2063/files) in coala
+- [Developed feature to allow including header files for ‘CPPCleanBear’ using the CppClean linter](https://github.com/coala/coala-bears/pull/2037/files) in coala
 
 ##### Some of my deep learning projects related to vision and speech:
 - [Labeling Satellite Images with Atmospheric Conditions and Land Cover](https://github.com/stellargo/Deep-Learning-Projects/blob/master/AN%20IMAGE%20SEGMENTATION%20PROBLEM/ImageSegmentationProblem.ipynb)
