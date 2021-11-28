@@ -1,4 +1,4 @@
-### Hey 👋
+### Hi there! 👋
 
 I am Sumit. You can read more about my Google Summer of Code (GSoC) project on externalizing the fingerprinting engine for Jenkins [here](https://www.jenkins.io/projects/gsoc/2020/projects/external-fingerprint-storage/).
 
