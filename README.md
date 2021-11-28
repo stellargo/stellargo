@@ -13,7 +13,7 @@ I am Sumit. You can read more about my Google Summer of Code (GSoC) project on e
 - [Built 'HTTPSBear' linter to automatically replace HTTP links with working HTTPS versions in coala](https://github.com/coala/coala-bears/pull/2063/files) in coala
 - [Developed feature to allow including header files for ‘CPPCleanBear’ using the CppClean linter](https://github.com/coala/coala-bears/pull/2037/files) in coala
 
-##### Some of my deep learning projects related to vision and speech:
+### Some of my deep learning projects related to vision and speech:
 - [Labeling Satellite Images with Atmospheric Conditions and Land Cover](https://github.com/stellargo/Deep-Learning-Projects/blob/master/AN%20IMAGE%20SEGMENTATION%20PROBLEM/ImageSegmentationProblem.ipynb)
 - [Emotion Recognition from Audio Clips](https://github.com/stellargo/Deep-Learning-Projects/blob/master/SPEECH%20EMOTION%20PROBLEM/SpeechEmotion.ipynb)
 
