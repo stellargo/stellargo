@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## Projects I have built and currently maintain:
+- ✨ [Redis Fingerprint Storage Plugin](https://github.com/jenkinsci/redis-fingerprint-storage-plugin)
+
 <!--
 **stellargo/stellargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
