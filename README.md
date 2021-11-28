@@ -6,7 +6,7 @@ I am Sumit. You can read more about my Google Summer of Code (GSoC) project on e
 - [Redis Fingerprint Storage Plugin](https://github.com/jenkinsci/redis-fingerprint-storage-plugin) for Jenkins
 - [PostgreSQL Fingerprint Storage Plugin](https://github.com/jenkinsci/postgresql-fingerprint-storage-plugin) for Jenkins
 
-### Some PRs in huge projects I am proud of:
+### Some PRs in huge projects:
 - [External Fingerprint storage API](https://github.com/jenkinsci/jenkins/pull/4731) in Jenkins core
 - [Fingerprint migration support](https://github.com/jenkinsci/jenkins/pull/4825) in Jenkins core
 - [Fingerprint cleanup support for External Fingerprint Storage API](https://github.com/jenkinsci/jenkins/pull/4817) in Jenkins core
